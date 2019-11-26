@@ -236,11 +236,10 @@ values (0009, 'Sertraline', '20191117', 0005, 90);
 
 
 insert into perscriptions(medicationID, `appointmentID`, `patientID`, `doctorID`, `date`, dose, datestart, dateend)
-values (0001, 0002,0002, 0001 , '20191115','two per day', '20191115', '20191215');
+values (0001, 0002,0002, 0001 , '20191115','Take two pills per day.', '20191115', '20191215');
 
 insert into perscriptions(medicationID, `appointmentID`, `patientID`, `doctorID`, `date`, dose, datestart, dateend)
-values (0003, 0003,0003, 0001 , '20191115','two per day', '20191115', '20191215');
-
+values (0003, 0003,0003, 0001 , '20191115','Take two pills per day.', '20191115', '20191215');
 
 
 
